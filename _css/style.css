@@ -6,6 +6,9 @@
 nav#menu ul {
     text-transform: uppercase;
     list-style: none;
+    position: absolute;
+    top: 60px;
+    left: 900px;
 }
 nav#menu{
     display: block;
@@ -13,8 +16,15 @@ nav#menu{
 
 nav#menu li{
     display: inline-block;
+    background-color: chocolate;
+    padding: 10px
 }
-header{
+
+body {
+    background-color: chocolate;
+}
+
+header {
     background-color: antiquewhite;
     padding-top: 70px;
     padding-bottom: 60px;
