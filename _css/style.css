@@ -51,3 +51,9 @@ nav#menu li:hover{
     max-width: 300px;
 
 }
+.produtos p{
+    color: rgb(238, 202, 173);
+}
+.precoDesc{
+    font-size: 25px;
+}
